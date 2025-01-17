@@ -1,0 +1,75 @@
+nav{
+    background-color: #0F1111;
+    padding: 8px;
+}
+.amglogo{
+    width: 100px;
+    height: 45px;
+}
+.cl-w{
+    color: white;
+    padding-top: 19px;
+    font-size: 21px;
+}
+.cl-c{
+    color: #cccccc;
+}
+.nn{
+font-size: 12px;
+}
+.navint{
+    
+    height: 40px;
+    padding: 7px 10px 10px 0px;
+    background-color: white;
+    
+}
+.sel{
+    width: 51.6px;
+    height: 40px;
+    background-color: #cccccc;
+}
+.navbtn{
+    height: 40px;
+    width: 45px;
+    background-color: orange;
+
+}
+.mp{
+    margin: 0px;
+    padding: 0px;
+}
+.fs{
+    font-size: 14px !important;
+
+}
+.fs1{
+    font-size: 13px;
+}
+.cc{
+    font-size:30px;
+    color:white;
+}
+.p{
+    pad: 0px 9px 10px;
+}
+.v:hover{
+    border: 1px solid white;
+}
+.p1{
+    padding: 10px;
+
+}
+.item img{
+    height: 18rem;
+}
+.item{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.card{
+    
+    margin:15px;
+
+}
